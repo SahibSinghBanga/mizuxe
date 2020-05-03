@@ -1,0 +1,23 @@
+{
+  "name": "mizuxe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahibSinghBanga/mizuxe.git"
+  },
+  "author": "Sahib Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SahibSinghBanga/mizuxe/issues"
+  },
+  "homepage":"https://SahibSinghBanga.github.io/mizuxe",
+  "deploy": "gh-pages",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
